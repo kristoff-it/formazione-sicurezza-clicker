@@ -7,9 +7,9 @@ Se invece anche tu non hai rispetto per la tua salute, esercita il tuo diritto a
 
   _ATTENZIONE: L'autore non si assume nessuna responsabilità sulle conseguenze dell'uso di questo script._
 
-1. Vai nella pagina con i video, fai click destro sul pulsante play e seleziona "Ispeziona Elemento" (o funzione equivalente per browser diversi da Chrome). Questo e' necessario affinche' il codice dopo trovi correttamente il tasto.
+1. Vai nella pagina con i video, fai click destro sul pulsante play e seleziona "Ispeziona Elemento" (o funzione equivalente per browser diversi da Chrome). Questo è necessario affinchè il codice dopo trovi correttamente il tasto.
 
-2. Incolla nella console del browser (si trova nella parte nuova che si apre quando si esegue il punto precedente) questo script e premi `Invio`:
+2. Incolla nella console del browser (si trova nella parte nuova che si apre all'esecuzione del punto precedente) questo script e premi `Invio`:
 
 ```javascript
 function hehehe(){
@@ -36,7 +36,7 @@ hehehe()
 setInterval(hehehe, 1000);
 ```
 
-3. NON aprire altre tab in quella finestra del browser, o, se hai gia' altre tab aperte, "trascina" la tab del videocorso in una nuova finestra. Questo serve perche' nelle tab "coperte" dalla tab attiva, il browser puo' decidere per ragioni di performance di bloccare l'esecuzione del javascript finche' l'utente non la riporta in primo piano. Mettendo la tab in una finestra separata questo problema si risolve perche', anche se l'intera finestra del browser e' nascosta da altre finestre, il browser non adotta applica questa ottimizzazione.
+3. NON aprire altre tab in quella finestra del browser, o, se hai già altre tab aperte, "trascina" la tab del videocorso in una nuova finestra. Questo serve perchè, nelle tab coperte dalla tab attiva, il browser può decidere per ragioni di performance di bloccare l'esecuzione del javascript finchè l'utente non la riporta in primo piano. Mettendo la tab in una finestra separata, questo problema si risolve perchè, anche se l'intera finestra del browser è nascosta da altre finestre, il browser non applica questa ottimizzazione.
 
 4. Enjoy
 
