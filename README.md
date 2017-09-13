@@ -41,4 +41,4 @@ setInterval(hehehe, 1000);
 4. Enjoy
 
 
-**PS: Se è stato il tuo capo a linkarti questo script, probabilmente è nel tuo interesse non usarlo.**
+**PS: Se è stato un tuo superiore a linkarti questo script, probabilmente è nel tuo interesse non usarlo.**
