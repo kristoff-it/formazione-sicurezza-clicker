@@ -11,7 +11,7 @@ Se invece anche tu non hai rispetto per la tua salute, esercita il tuo diritto a
 
 2. Incolla nella console del browser (si trova nella parte nuova che si apre quando si esegue il punto precedente) questo script e premi `Invio`:
 
-```
+```javascript
 function hehehe(){
 	var x = document.getElementsByClassName("playbarBigButton")[0];
 
