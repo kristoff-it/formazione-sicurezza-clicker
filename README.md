@@ -1,7 +1,7 @@
 # formazione-sicurezza-clicker
 I videocorsi di formazionesicurezza.com sono tagliati ogni 40 secondi per cercare di assicurare che il lavoratore prenda davvero coscienza dei propri diritti e doveri in ambito della sicurezza sul lavoro.
 
-Se invece anche tu non hai rispetto per la tua salute, esercita il tuo diritto all'ignoranza usando questo script che automatizza l'operazione permettendoti di fare altro mentre i video proseguono in background.
+Se invece anche tu non hai rispetto per la tua salute, esercita il tuo diritto all'ignoranza usando questo script che automatizza l'operazione, permettendoti di fare altro mentre i video proseguono in background.
 
 ## Istruzioni
 
